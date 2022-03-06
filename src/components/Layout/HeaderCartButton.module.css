@@ -1,0 +1,18 @@
+.cart {
+  position: relative;
+  margin-right: 49px;
+}
+
+.badge {
+  position: absolute;
+  top: -8px;
+  right: -6px;
+  width: 21px;
+  height: 16px;
+  text-align: center;
+  background: hsl(26, 100%, 55%);
+  color: white;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 40%;
+}

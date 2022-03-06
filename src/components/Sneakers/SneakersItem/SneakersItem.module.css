@@ -1,0 +1,44 @@
+.sneakers {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: hsl(26, 100%, 55%);
+    letter-spacing: 0.1em;
+}
+
+.name {
+    color: hsl(220, 13%, 13%);
+    margin-top: 16px;
+    margin-bottom: 34px;
+    font-size: 40px;
+}
+
+.description {
+    color: hsl(219, 9%, 45%);
+}
+
+.price-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 22px;
+    margin-bottom: 7px;
+}
+
+.price-wrapper h2{
+    color: hsl(220, 13%, 13%);
+    font-size: 30px;
+}
+
+.price-wrapper h3 {
+    padding: 3px 7px;
+    background: hsl(25, 100%, 94%);
+    color: hsl(26, 100%, 55%);
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+.discount {
+    font-size: 18px;
+    color: hsl(220, 14%, 75%);
+    text-decoration: line-through;
+}

@@ -1,0 +1,17 @@
+.image-hero {
+    width: 447px;
+    height: 447px;
+    border-radius: 16px;
+}
+
+.list-sneakers {
+    display: flex;
+    gap: 31px;
+    margin-top: 32px;
+}
+
+.list-sneakers li img {
+    width: 88px;
+    height: 88px;
+    border-radius: 9px;
+}

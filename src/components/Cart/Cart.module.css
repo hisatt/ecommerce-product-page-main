@@ -1,0 +1,16 @@
+.cart {
+    width: 360px;
+    height: 256px;
+    border-radius: 7px;
+    box-shadow: 0 1rem 1rem 1rem rgb(0 0 0 / 10%), 0 1rem 2rem 1rem rgb(0 0 0 / 10%);
+    position: fixed;
+    background: white;
+    top: 100px;
+    right: 350px;
+    padding: 24px;
+}
+
+.line {
+    border: 1px solid hsl(223, 64%, 98%);
+}
+

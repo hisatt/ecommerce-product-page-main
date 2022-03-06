@@ -1,0 +1,9 @@
+.listCart {
+    margin: 24px 24px 0 24px;
+    display: flex;
+}
+
+.listCart .productName {
+    font-size: 16px;
+    color: #828387;
+}
